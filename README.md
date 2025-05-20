@@ -15,18 +15,18 @@ The game tracks your high score and saves it in a CSV file.
 pip install -r requirements.txt
 ```
 
-###Features
--Three difficulty levels with increasing challenge;
--Interactive GUI with tkinter;
--Persistent high score saved locally;
--Uses pandas for data handling;
+####Features
+- Three difficulty levels with increasing challenge;
+- Interactive GUI with tkinter;
+- Persistent high score saved locally;
+- Uses pandas for data handling;
 
-###Project Structure
-+country_list.csv: contains the list of countries with their capitals and continents  
-+game.py: main game script
-+main.py: starts game
-+scores.csv: score saving file
-+welcome.py: starting window with difficulty choice  
+####Project Structure
+- country_list.csv: contains the list of countries with their capitals and continents  
+- game.py: main game script
+- main.py: starts game
+- scores.csv: score saving file
+- welcome.py: starting window with difficulty choice  
 
 ## How to run
 ``` bash
