@@ -1,5 +1,4 @@
 import tkinter as tk
-import pytest
 from game import game_start
 
 root = tk.Tk()
